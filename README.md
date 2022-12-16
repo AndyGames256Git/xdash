@@ -1,6 +1,6 @@
 # Xbox Game Pass Concept Dashboard for Xbox PC App
 
-Modern Microsoft design languaged was followed to create this concept dashboard. 
+Modern Microsoft design language was adopted to create this concept dashboard. 
 
 One of the main emphasis is creating 6 tiles in Discover section to show the power of in-house and partners for Game Pass ecosystem.
 

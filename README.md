@@ -9,3 +9,5 @@ Disney+ esque design language was adapted to bolster the first-party organizatio
 One of the cruicial but missing parts of the Xbox to not show ID@Xbox any love they deserve. Indie games and developers should be more prominent.
 
 'Xbox Original' term used for every Xbox first-party studios organization including XGS, Betheda and Activision Blizzard.
+
+![Web capture_16-12-2022_41047_127 0 0 1](https://user-images.githubusercontent.com/25297175/207999288-9f1256a5-958b-4142-857e-4477afbc8d78.jpeg)
